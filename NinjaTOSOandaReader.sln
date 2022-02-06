@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjaTOSOandaReader", "NinjaTOSOandaReader.csproj", "{647EFAF2-253C-4AF1-B0F4-C271CF9297DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{647EFAF2-253C-4AF1-B0F4-C271CF9297DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647EFAF2-253C-4AF1-B0F4-C271CF9297DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647EFAF2-253C-4AF1-B0F4-C271CF9297DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647EFAF2-253C-4AF1-B0F4-C271CF9297DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {571BE296-DA56-4520-8D66-240B8D6FFCF7}
+	EndGlobalSection
+EndGlobal
