@@ -4,7 +4,7 @@ using System.IO;
 using System.Net;
 using ConsoleApp1.Model;
 
-namespace ConsoleApp1
+namespace NinjaTOSOandaReader
 {
     public class OandaClient
     {

@@ -2,7 +2,7 @@
 using System.Timers;
 using NinjaTrader.Client;
 
-namespace ConsoleApp1
+namespace NinjaTOSOandaReader
 {
     class NinjaTraderWorker : IDisposable
     {

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1.NinjaTrader
+namespace NinjaTOSOandaReader
 {
     public class NinjaTraderImport
     {
